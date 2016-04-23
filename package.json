@@ -1,0 +1,29 @@
+{
+  "name": "nodebb-plugin-shorturls",
+  "version": "0.0.0",
+  "description": "Short URLs for topic and post links in NodeBB.",
+  "author": "Raphael Beer <raphael.beer@protonmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbeer/nodebb-plugin-shorturls.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rbeer/nodebb-plugin-shorturls/issues"
+  },
+  "homepage": "https://github.com/rbeer/nodebb-plugin-shorturls",
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "topic",
+    "post",
+    "shorturls"
+  ],
+  "nbbpm": {
+    "compatibility": "6.6.6"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}

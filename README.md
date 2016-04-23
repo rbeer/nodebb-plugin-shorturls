@@ -1,0 +1,1 @@
+﻿Preparing name change of https://github.com/rbeer/nodebb-plugin-smoothshorts/
